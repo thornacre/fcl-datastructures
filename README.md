@@ -54,25 +54,27 @@ This repository contains:
 
 ## Data Structures Included
 
-- Trees (for document hierarchy)
-- Graphs (for citation networks)
-- Hash Tables (for metadata lookups)
-- Tries (for autocomplete)
-- B-Trees (for range queries)
-- Inverted Indices (for full-text search)
-- pandas DataFrames (for tabular legal data analysis)
-- Sets with Intersection (for document filtering)
-- Regular Expressions (for pattern matching in legal text)
-- DOM Trees/BeautifulSoup (for HTML/XML parsing)
-- Django ORM QuerySets (for database operations)
-- NumPy Arrays (for numerical analysis)
-- Bloom Filters (for probabilistic membership testing)
-- LRU Cache (for caching frequent queries)
-- Queue Structures (for task processing)
-- Segment Trees (for range query optimization)
-- Scoring Algorithms (for relevance ranking)
-- Red-Black Trees (for balanced search trees)
-- NLP Token Trees (for natural language processing)
+| Data Structure | File | FCL Use Case |
+|----------------|------|--------------|
+| Trees | [trees.py](data_structures/trees.py) | Document hierarchy |
+| Graphs | [graphs.py](data_structures/graphs.py) | Citation networks |
+| Hash Tables | [hash_tables.py](data_structures/hash_tables.py) | Metadata lookups |
+| Tries | [tries.py](data_structures/tries.py) | Autocomplete |
+| B-Trees | [b_trees.py](data_structures/b_trees.py) | Range queries |
+| Inverted Indices | [inverted_indices.py](data_structures/inverted_indices.py) | Full-text search |
+| pandas DataFrames | [dataframes.py](data_structures/dataframes.py) | Tabular legal data analysis |
+| Sets with Intersection | [sets_intersection.py](data_structures/sets_intersection.py) | Document filtering |
+| Regular Expressions | [regex_patterns.py](data_structures/regex_patterns.py) | Pattern matching in legal text |
+| DOM Trees/BeautifulSoup | [dom_trees.py](data_structures/dom_trees.py) | HTML/XML parsing |
+| Django ORM QuerySets | [django_querysets.py](data_structures/django_querysets.py) | Database operations |
+| NumPy Arrays | [numpy_arrays.py](data_structures/numpy_arrays.py) | Numerical analysis |
+| Bloom Filters | [bloom_filters.py](data_structures/bloom_filters.py) | Probabilistic membership testing |
+| LRU Cache | [lru_cache.py](data_structures/lru_cache.py) | Caching frequent queries |
+| Queue Structures | [queues.py](data_structures/queues.py) | Task processing |
+| Segment Trees | [segment_trees.py](data_structures/segment_trees.py) | Range query optimization |
+| Scoring Algorithms | [scoring_algorithms.py](data_structures/scoring_algorithms.py) | Relevance ranking |
+| Red-Black Trees | [red_black_trees.py](data_structures/red_black_trees.py) | Balanced search trees |
+| NLP Token Trees | [nlp_token_trees.py](data_structures/nlp_token_trees.py) | Natural language processing |
 
 ## Getting Started
 
