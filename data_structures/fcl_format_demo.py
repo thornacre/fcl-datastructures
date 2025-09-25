@@ -1,13 +1,13 @@
 """
-Find Case Law Multi-Format Data Demonstration (Production-Ready)
+Find Case Law Multi-Format Data Demonstration
 National Archives - JSON, XML (Akoma Ntoso/LegalDocML), and RDF Format Processing
 
 This module demonstrates enterprise-grade expertise in manipulating JSON objects
-alongside XML and RDF formats for the Find Case Law service, with production-ready
+alongside XML and RDF formats for the Find Case Law service, with
 implementations including performance optimization, caching, and error handling.
 
-Author: National Archives Digital Services
-Version: 2.0 - Production Ready
+Author: Thornacre
+Version: 2.0
 """
 
 import json
