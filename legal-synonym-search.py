@@ -6,7 +6,7 @@ find relevant judgments regardless of their specific phrasing.
 
 Maps common/layperson terms to formal legal terminology and vice versa.
 
-Author: FCL
+Author: Thornacre
 Version: 1.0.0
 """
 
